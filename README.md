@@ -81,3 +81,41 @@ Morgan worked on creating a new page for Book Reviews as part of the collaborati
 5. Opened a Pull Request titled: `"Add book reviews section"`.
 6. Successfully merged the PR into the `main` branch.
 
+### 👤 Jamie's Contribution: Update Events Page
+
+#### 🛠️ Branch: `update-events`
+
+Jamie updated the Events page with new community events following the same Git workflow as Morgan.
+
+**Steps Completed:**
+
+1. Created and switched to feature branch:
+   
+   git checkout -b update-events
+
+<h2>June 2023 Community Events</h2>
+<ul>
+  <li>Summer Reading Kickoff - June 5</li>
+  <li>Author Talk: Jane Doe - June 15</li>
+</ul>
+
+
+### 👤 Jamie's Workflow: Syncing Before PR
+
+#### 🔄 Pulling Latest Changes Before PR Creation
+
+After completing updates to `events.html` but before raising the Pull Request:
+
+1. **Staged and committed local changes**:
+   ```bash
+   git add events.html
+   git commit -m "Updated events page with community events"
+   git pull origin main
+
+### 🔄 Jamie's Pre-PR Synchronization
+
+**Before raising the PR**, Jamie ensured the `update-events` branch was synced with latest `main`:
+
+1. **From the update-events branch**:
+   ```bash
+   git checkout update-events
