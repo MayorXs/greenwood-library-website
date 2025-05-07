@@ -49,3 +49,35 @@ Simulate the initial version of the Greenwood Library Website by creating placeh
 <h2>Contact Us</h2>
 <p>Email: info@greenwoodlibrary.org | Phone: 123-456-7890</p>
 
+
+---
+
+### 👤 Morgan's Contribution: Add Book Reviews Section
+
+#### 🛠️ Branch: `add-book-reviews`
+
+Morgan created a new feature branch to add a Book Reviews section to the community library website.
+
+1. Created and switched to a new branch:
+   
+   git checkout -b add-book-reviews
+
+
+---
+
+### 👤 Morgan's Contribution – Book Reviews Section
+
+#### 🛠 Branch: `add-book-reviews`
+
+Morgan worked on creating a new page for Book Reviews as part of the collaborative Git workflow simulation.
+
+**Steps Completed:**
+
+
+1. Created a feature branch named `add-book-reviews`.
+2. Added a new file `book_reviews.html` with placeholder content.
+3. Staged, committed with message: `"Add book reviews section"`.
+4. Pushed the branch to GitHub.
+5. Opened a Pull Request titled: `"Add book reviews section"`.
+6. Successfully merged the PR into the `main` branch.
+
